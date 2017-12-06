@@ -1,0 +1,58 @@
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\heightmap.jpg
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\TankGame_IP3D.exe
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\TankGame_IP3D.pdb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.csprojResolveAssemblyReference.cache
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.exe
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.pdb
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\heightmap.jpg
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\TankGame_IP3D.exe
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\TankGame_IP3D.pdb
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.csprojResolveAssemblyReference.cache
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.csproj.CoreCompileInputs.cache
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.exe
+C:\Users\barfi\Desktop\Escola\TankGame_IP3D-v2\TankGame_IP3D\TankGame_IP3D\obj\x86\Debug\TankGame_IP3D.pdb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\Cube.xnb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\tank.xnb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+D:\Escola\Introdução Programação 3D\Repositórios\TankGame_IP3D\TankGame_IP3D\TankGame_IP3D\bin\Windows\x86\Debug\Content\textureTerreno.jpg
