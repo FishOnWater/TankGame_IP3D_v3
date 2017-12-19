@@ -13,7 +13,6 @@ namespace TankGame_IP3D
     {
         Vector3 posicao;
         float alturaCam = 5.0f;
-        Vector3 direcao;
         Vector3 directionBase = Vector3.UnitX;
         public Matrix view;
         Vector3 speed = new Vector3(1.0f, 0.0f, 0.0f);
@@ -21,16 +20,17 @@ namespace TankGame_IP3D
         float pitch = 0.01f;
         Matrix Projection;
         float offSetChao = 1.80f;
+        float offSetTank = 5.0f;
 
         public Camera(GraphicsDevice device)
         {
             posicao = new Vector3(64.0f, alturaCam, 64.0f);
             float aspectRatio = (float)device.Viewport.Width / device.Viewport.Height;
-            view = Matrix.CreateLookAt(posicao, direcao, Vector3.Up);
+            view = Matrix.CreateLookAt(posicao, speed, Vector3.Up);
             Projection = Matrix.CreatePerspectiveFieldOfView(MathHelper.ToRadians(45.0f), aspectRatio, 1.0f, 100.0f);
         }
 
-        public void UpdateCameraPosition(ClsBattlefield terreno, KeyboardState keyboardState)
+        public void UpdateCameraPositionSurfaceFollow(ClsBattlefield terreno, KeyboardState keyboardState)
         {
             MouseState mousestate = Mouse.GetState();
 
@@ -64,8 +64,34 @@ namespace TankGame_IP3D
                 posicao.Y = alturaCam + offSetChao;
             }
 
-            view = Matrix.CreateLookAt(posicao,posicao + speed, Vector3.Up);
+            view = Matrix.CreateLookAt(posicao, posicao + speed, Vector3.Up);
         }
 
+        public void UpdateCameraPositionTankFollow(TankClass tanque, KeyboardState keyboard)
+        {
+            if (keyboard.IsKeyDown(Keys.W))
+            {
+                posicao = tanque.PositionTank;
+                posicao.X = posicao.X + offSetTank;
+                posicao.Y = posicao.Y + offSetChao;
+                posicao.Z = posicao.Z + offSetTank;
+                alturaCam = tanque.PositionTank.Y + offSetChao;
+            }
+            if (keyboard.IsKeyDown(Keys.A))
+            {
+                posicao = tanque.PositionTank;
+                posicao.X = posicao.X + offSetTank;
+                posicao.Y = posicao.Y + offSetChao;
+                posicao.Z = posicao.Z + offSetTank;
+                alturaCam = tanque.PositionTank.Y + offSetChao;
+            }
+
+            if (keyboard.IsKeyDown(Keys.A))
+                speed = tanque.DirectionTank;
+            if (keyboard.IsKeyDown(Keys.D))
+                speed = tanque.DirectionTank;
+
+            view = Matrix.CreateLookAt(posicao, speed, Vector3.Up);
+        }
     }
 }

@@ -22,7 +22,7 @@ namespace TankGame_IP3D
         IndexBuffer indexBuffer;
 
         BasicEffect effect;
-        Matrix matrixTerreno = Matrix.Identity;
+        public Matrix matrixTerreno = Matrix.Identity;
         public Texture2D alturas;
         Texture2D terreno;
 
@@ -52,7 +52,7 @@ namespace TankGame_IP3D
 
             effect.LightingEnabled = true;
 
-            effect.DirectionalLight0.DiffuseColor = Color.Brown.ToVector3();
+            effect.DirectionalLight0.DiffuseColor = Color.White.ToVector3();
             effect.DirectionalLight0.Direction = new Vector3(1.0f, -0.5f, 0);  
 
             effect.AmbientLightColor = new Vector3(0.5f, 0.5f, 0.5f);
@@ -356,6 +356,13 @@ namespace TankGame_IP3D
 
                 return Y;
             }
+        }
+
+        public Vector3 GetNormals(int x, int z)
+        {
+            Vector3 passNormal;
+            passNormal = vertices[z * alturas.Width + x].Normal;
+            return passNormal;
         }
 
         public void Draw(GraphicsDevice device, Matrix camView)

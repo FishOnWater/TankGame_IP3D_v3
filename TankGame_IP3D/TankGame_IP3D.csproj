@@ -40,7 +40,6 @@
   <ItemGroup>
     <Compile Include="Camera.cs" />
     <Compile Include="ClsBattlefield.cs" />
-    <Compile Include="ClsCameraControl.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
